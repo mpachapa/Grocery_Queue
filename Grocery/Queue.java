@@ -1,4 +1,4 @@
-package grocery;
+package Grocery;
 
 /**
  * Queue for Grocery Store

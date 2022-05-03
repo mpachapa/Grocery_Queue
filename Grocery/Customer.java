@@ -6,8 +6,8 @@
 		Constructor: Random ServiceTime (1-5)
 		Public Methods: getServiceTime, newMinute
 */
-package grocery;
-import java.util.Random;		
+package Grocery;
+import  java.util.Random;
 
 public class Customer {
 	

@@ -1,4 +1,4 @@
-package grocery;
+package Grocery;
 
 /**
  * Grocery Store Line Program
@@ -6,6 +6,10 @@ package grocery;
  * @author Matthew Pachapa
  */
 public class Grocery {
+
+    public void function(){
+        System.out.println("other");
+    }
 
     public static void main(String[] args) {
         //creation of variables
